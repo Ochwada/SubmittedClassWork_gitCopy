@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/10_online-shop-packaging-and-checkout-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/1_template-exercise-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/2_number-system-conversion-java-basics-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/3_understanding-classes-objects-datatypes-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/4_java-operators-control-flow-and-methods-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/4_math-operations-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/5_java-methods-fundamentals-assignment-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/5_smart-coffee-machine-simulation-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/6_election-and-voting-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/6_smart-school-access-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/7_family-budget-assistant-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/7_smart-home-access-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/7_student-grade-evaluator-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/8_smart-city-utility-portal-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/8_smart-toll-management-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1_2_Week/Week1-2 IntoTopics/9_customer-support-portal-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/28_LibraryAppWithMaven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/11_football-match-tracker-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/11_gamerverse-platform-tracker-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/11_gamerverse-platform-tracker-Ochwada_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/12_car-dealership-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/14_movie-watchlist-app-with-arraylist-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/14_personal-organizer-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/16_cli-text-editor-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/classroom-resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/clone-wars-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/git-garden" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/github-adventure-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/journal-machine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/17_ DevOps Basics-Operating Systems, Git and GitHub/organize-life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/18_ManagingExercisesUsingGitHub/git-lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/18_ManagingExercisesUsingGitHub/git-lab-scenario-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/19_Git_and_GitHub/GitFitApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/19_Git_and_GitHub/mission-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/19_Git_and_GitHub/quote-logger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/20_JavaCLI/java-cli-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/20_JavaCLI/java-todo-app-ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/20_JavaCLI/java-weather-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_4_Week/20_JavaCLI/java-weather-app-ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/0429_VehicleComparisonSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/21_Ride-Sharing-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/21_library-management-system-Ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/22_MovieMatcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/24_OOP_Advanced" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/24_PetSimulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/25_Generics_ExceptionHandling/SmartInventorySystem-Java-Generics-Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/25_SmartPetClinic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/26_EasyStorageTracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/26_SmartDeliveryBox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/27_MovieTicketBookingSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/27_SmartSupplyChain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/ClassTut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/RideShareLite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_6_Week/ZooManagementSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SmartSupplyChain_v2" vcs="Git" />
+  </component>
+</project>

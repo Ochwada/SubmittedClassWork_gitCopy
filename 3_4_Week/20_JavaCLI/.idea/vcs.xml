@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-cli-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-todo-app-ochwada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-weather-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-weather-app-ochwada" vcs="Git" />
+  </component>
+</project>
