@@ -1,0 +1,3 @@
+Hey Future Me,
+Today you started mastering Java Streams.
+Remember: With great buffers come great performance.
